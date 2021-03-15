@@ -131,6 +131,4 @@ Android sovellus sensorien esittelyyn. Tässä tutoriaalissa rakennetaan valosen
     }
 ```
 
-
-```java
-```
+15.3.2021 - Toimii edelleen
