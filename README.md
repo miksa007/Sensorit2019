@@ -30,9 +30,9 @@ Android sovellus sensorien esittelyyn. Tässä tutoriaalissa rakennetaan valosen
 
     private TextView mTextSensorLight;
 ```
-* Eli SensorManager vastaa kaikista sensoreista.
+* SensorManager vastaa kaikista sensoreista.
 * mSensorLight -muuttuja sensorille, jota käsitellään.
-* mtextSensorLight - muutjaa tarvitaan kun arvoa kirjoitetaan näkymään.
+* mtextSensorLight - muuttujaa tarvitaan kun arvoa kirjoitetaan näkymään.
 * (Jokainen riveistä vaatii myös import -lauseen)
 
 * Määritellään onCreate() -metodissa äsken esitellyt muuttujat. 
@@ -132,3 +132,4 @@ Android sovellus sensorien esittelyyn. Tässä tutoriaalissa rakennetaan valosen
 ```
 
 15.3.2021 - Toimii edelleen
+14.3.2022 - Toimii edelleen
